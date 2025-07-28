@@ -1,3 +1,9 @@
+# ARCHIVED
+
+This project has been archived and replaced by the new OS2indberetning project, which is located in the os2indberetning repository.
+
+----
+
 # OS2Indberetning
 
 OS2Indberetning was programmed by IT Minds ApS (http://it-minds.dk) for OS2 - Offentligt digitaliseringsfællesskab (http://os2.eu).
